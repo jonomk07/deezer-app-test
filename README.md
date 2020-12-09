@@ -1,6 +1,6 @@
 # MusicDbApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)  11.0.0-next.7
 
 ## Development server
 
