@@ -1,4 +1,4 @@
-# MusicDbApp
+# Deezer App Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)  11.0.0-next.7
 
