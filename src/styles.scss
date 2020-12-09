@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+@import "style-variables.scss";
+
+body {
+  background-color: $base-color;
+  padding: 0px;
+  color: $font-color-main;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.artist-image {
+    border: 1px solid #fff;
+}
+.artist-description{
+    padding: 15px;
+}
+
+@media only screen and (min-width: 1920px) {
+  //iPad Pro Landscape
+  //1024px x 1366px
+  body {
+    padding: 0px 150px;
+  }
+}
