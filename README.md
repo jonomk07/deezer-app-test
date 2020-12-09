@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)  11.0.0-next.7
 
 # Clone locally 
-Run `git clone https://github.com/jonomk07/deezer-app-test.git`
-Run `cd  deezer-app-test `
-Run `npm install `
+Run `git clone https://github.com/jonomk07/deezer-app-test.git`.
+Run `cd  deezer-app-test `.
+Run `npm install `.
 
 ## Development server
 
